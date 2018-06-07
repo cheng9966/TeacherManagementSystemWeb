@@ -1,0 +1,34 @@
+body {
+	margin: 0;
+}
+.form{
+	background: rgba(255,255,255,0.2);
+	width:400px; 
+	margin:260px auto;
+}
+/*阴影*/
+.fa{
+	display: inline-block;
+	top: 27px;
+	left: 6px;
+	position: relative;
+	color: #ccc;
+}
+.content-input{
+	padding-left:26px;
+}
+
+video {
+	position: fixed;
+	right: 0px;
+	bottom:0px;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index:-9999;
+}
+
+h3 {
+	color: white;
+}
